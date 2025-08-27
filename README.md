@@ -84,3 +84,33 @@ JavaScript es un lenguaje de programación que se ejecuta en el navegador. Permi
 ### 10. ¿Por qué es importante usar nombres significativos para variables y métodos?  
 Porque facilita la **lectura, mantenimiento y comprensión del código**, tanto para el programador como para otros desarrolladores que trabajen en el mismo proyecto.  
 
+---
+
+### 11. ¿Qué es una variable de entorno y por qué son importantes para JavaScript o la programación en general?  
+Son valores externos que se configuran fuera del código fuente (como claves API, configuraciones o rutas).  
+Son importantes porque permiten **seguridad, portabilidad y flexibilidad** en diferentes entornos (desarrollo, pruebas, producción).  
+
+---
+
+### 12. ¿Qué son las herramientas de desarrollo de Chrome y cómo se accede a ellas?  
+Son un conjunto de utilidades integradas en el navegador Google Chrome para inspeccionar, depurar y optimizar páginas web.  
+Se acceden con **clic derecho → Inspeccionar** o con la tecla **F12**.  
+
+---
+
+### 13. ¿Qué se puede hacer en el panel "Elements" de las herramientas de desarrollo?  
+Permite inspeccionar y modificar la **estructura HTML y los estilos CSS** de una página en tiempo real.  
+
+---
+
+### 14. ¿Cómo se utiliza el panel "Console" de las herramientas de desarrollo y para qué es útil?  
+La **consola** permite ejecutar código JavaScript en tiempo real y mostrar mensajes de depuración.  
+Es útil para probar fragmentos de código, identificar errores y hacer seguimiento a variables.  
+
+---
+
+### 15. ¿Qué información se puede obtener del panel "Network" y por qué es importante?  
+Muestra todas las **peticiones y respuestas HTTP** realizadas por la página (archivos cargados, tiempo de carga, errores, etc.).  
+Es importante para optimizar el rendimiento y detectar problemas de conexión o carga de recursos.  
+
+---
