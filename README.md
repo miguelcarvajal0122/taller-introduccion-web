@@ -114,3 +114,13 @@ Muestra todas las **peticiones y respuestas HTTP** realizadas por la página (ar
 Es importante para optimizar el rendimiento y detectar problemas de conexión o carga de recursos.  
 
 ---
+
+## Parte Práctica
+Incluye:
+1) Encabezado con mi nombre.
+2) Párrafo descriptivo.
+3) Enlace a mi GitHub/red social.
+4) Imagen (URL o local).
+5) Botón que muestra “Hola Mundo desde JavaScript” en la consola y en un alert.
+
+Archivos: `index.html`, `styles.css`, `script.js`.
