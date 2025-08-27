@@ -4,7 +4,7 @@
 ## 📌 Parte Teórica  
 
 ### 1. ¿Qué es HTML y cuál es su función en la web?  
-HTML (HyperText Markup Language) es el lenguaje estándar para estructurar el contenido de la web. Su función es organizar y mostrar texto, imágenes, enlaces, videos y otros elementos en una página web.  
+HTML es el lenguaje estándar para estructurar el contenido de la web. Su función es organizar y mostrar texto, imágenes, enlaces, videos y otros elementos en una página web.  
 
 ---
 
@@ -31,7 +31,7 @@ Un atributo es información adicional que se añade a una etiqueta para modifica
 ---
 
 ### 4. ¿Qué es CSS y cómo se utiliza para el diseño web?  
-CSS (Cascading Style Sheets) es un lenguaje que define la presentación de una página HTML. Permite dar color, tamaño, tipografía y estilos visuales a los elementos de una web.  
+CSS (Cascading Style Sheets) es un lenguaje que define la presentación de una página HTML. Permite dar color, tamaño, tipografía y estilos visuales a los elementos de una web  
 
 ---
 
@@ -82,19 +82,19 @@ JavaScript es un lenguaje de programación que se ejecuta en el navegador. Permi
 ---
 
 ### 10. ¿Por qué es importante usar nombres significativos para variables y métodos?  
-Porque facilita la **lectura, mantenimiento y comprensión del código**, tanto para el programador como para otros desarrolladores que trabajen en el mismo proyecto.  
+Porque facilita la **lectura, mantenimiento y comprensión del código**, tanto para el programador como para otros desarrolladores que trabajen en el mismo proyecto
 
 ---
 
 ### 11. ¿Qué es una variable de entorno y por qué son importantes para JavaScript o la programación en general?  
 Son valores externos que se configuran fuera del código fuente (como claves API, configuraciones o rutas).  
-Son importantes porque permiten **seguridad, portabilidad y flexibilidad** en diferentes entornos (desarrollo, pruebas, producción).  
+Son importantes porque permiten **seguridad, portabilidad y flexibilidad** en diferentes entornos (desarrollo, pruebas, producción) 
 
 ---
 
 ### 12. ¿Qué son las herramientas de desarrollo de Chrome y cómo se accede a ellas?  
 Son un conjunto de utilidades integradas en el navegador Google Chrome para inspeccionar, depurar y optimizar páginas web.  
-Se acceden con **clic derecho → Inspeccionar** o con la tecla **F12**.  
+Se acceden con **F12**.  
 
 ---
 
@@ -110,7 +110,7 @@ Es útil para probar fragmentos de código, identificar errores y hacer seguimie
 ---
 
 ### 15. ¿Qué información se puede obtener del panel "Network" y por qué es importante?  
-Muestra todas las **peticiones y respuestas HTTP** realizadas por la página (archivos cargados, tiempo de carga, errores, etc.).  
+Muestra todas las **peticiones y respuestas HTTP** realizadas por la página (archivos cargados, tiempo de carga, errores).  
 Es importante para optimizar el rendimiento y detectar problemas de conexión o carga de recursos.  
 
 ---
